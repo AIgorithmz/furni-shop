@@ -1,6 +1,42 @@
 {
   "items": [
     {
+    
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "twin kid bed",
+        "price": 8.99,
+        "image": { "fields": { "file": { "url": "./images/kid1.jpg" } } }
+      }
+    },
+    {
+    
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "kid playground",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "./images/kid2.jpg" } } }
+      }
+    },
+    {
+    
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "bunk kid bed",
+        "price": 7.99,
+        "image": { "fields": { "file": { "url": "./images/kid3.jpg" } } }
+      }
+    },
+    {
+    
+    "sys": { "id": "12" },
+    "fields": {
+      "title": "stylish kid bed",
+      "price": 7.99,
+      "image": { "fields": { "file": { "url": "./images/kid4.jpg" } } }
+    }
+  },
+    {
       "sys": { "id": "1" },
       "fields": {
         "title": "queen panel bed",
