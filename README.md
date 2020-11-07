@@ -1,6 +1,6 @@
 # furni-shop
 
-A website for buying comfortable household funiture
+A website for buying comfortable household funiture 🪑🛏
 
 ## 👇🏽👇🏽👇🏽 Products
 
